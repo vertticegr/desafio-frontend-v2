@@ -33,6 +33,11 @@ Informações sobre como deve ser feito projeto:
 - Utilizar a versão 14 do NextJS
 
 
+
+#### Outras informações:
+A lista com as categorias a serem utilizadas está neste repositório no arquivo lista.md
+
+
 ## O que será avaliado e valorizamos ❤️
 
 - Documentação
