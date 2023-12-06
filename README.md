@@ -4,8 +4,7 @@ Este projeto é um desafio de desenvolvimento que envolve a criação de um quad
 
 ### Tecnologias Utilizadas
 - TypeScript
-- NextJS (Preferência a versão 14)
-- PNPM (Pode ser utilizado o NPM)
+- NextJS
 - Tailwind CSS
 - Git
 - Docker
@@ -22,9 +21,16 @@ Informações sobre como deve ser feito projeto:
 - A lista dos veículos devem ser aleatórias sempre que a pagina for carregada. (Deve ser criada uma lista para cada categoria de vínculo, tecnologia e situação)
 - O máximo de itens em cada coluna do Kanban é de 5 itens.
 - As placas dos veículos não podem se repetir. (Não necessita ser uma placa válida)
+- Filtros funcionais
 - Ao clicar em um dos itens, deve ser aberto um modal com as informações do veículo. Placa, situação, técnologia, categoria do vinculo são os principais itens, caso julgue necessário poderá implementar mais itens.
 - O Projeto foi criado no Adobe XD, porém caso sinta necessidade de aprimorar o mesmo e apresentar uma versão melhor (em sua visão), será permitido.
 - A página deve ser responsiva, funcionando bem em dispositivos móveis e desktops.
+
+
+### Diferenciais:
+- Realizar o deploy da aplicação para que seja fácil visualizar
+- Utilizar o PNPM como gerenciador de depedências
+- Utilizar a versão 14 do NextJS
 
 
 ## O que será avaliado e valorizamos ❤️
