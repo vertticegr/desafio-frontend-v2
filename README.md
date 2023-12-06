@@ -1,10 +1,10 @@
 # Desafio FrontEnd com NextJS
 
-Este projeto é um desafio de desenvolvimento que envolve a criação de um quadro Kanban usando TypeScript e Next.js 14. O objetivo é implementar um sistema eficiente para gerenciamento de tarefas e projetos.
+Este projeto é um desafio de desenvolvimento que envolve a criação de um quadro Kanban usando TypeScript e Next.js. O objetivo é implementar um sistema eficiente para gerenciamento de tarefas e projetos.
 
 ### Tecnologias Utilizadas
 - TypeScript
-- NextJS
+- Next.JS
 - Tailwind
 - Git
 - Docker
