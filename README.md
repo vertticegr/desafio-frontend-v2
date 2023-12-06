@@ -2,15 +2,14 @@
 
 Este projeto é um desafio de desenvolvimento que envolve a criação de um quadro Kanban usando TypeScript e Next.js 14. O objetivo é implementar um sistema eficiente para gerenciamento de tarefas e projetos.
 
-## Tecnologias Utilizadas
+### Tecnologias Utilizadas
 - TypeScript
 - NextJS (Preferência a versão 14)
-- PNPM
+- PNPM (Pode ser utilizado o NPM)
 - Tailwind CSS
 
 ### Imagem da tela que deve ser desenvolvida
 ![image](https://github.com/vertticegr/desafio-frontend-v2/assets/45667828/8d3ec6c5-f59a-4e14-984c-8ef66255507e)
-
 
 Link para acessar o projeto no Adobe XD: https://xd.adobe.com/view/bef2808d-e307-45a7-88ab-a7b844389d45-eba1/
 
@@ -24,7 +23,6 @@ Informações sobre como deve ser feito projeto:
 - Ao clicar em um dos itens, deve ser aberto um modal com as informações do veículo. Placa, situação, técnologia, categoria do vinculo são os principais itens, caso julgue necessário poderá implementar mais itens.
 - O Projeto foi criado no Adobe XD, porém caso sinta necessidade de aprimorar o mesmo e apresentar uma versão melhor (em sua visão), será permitido.
 - A página deve ser responsiva, funcionando bem em dispositivos móveis e desktops.
-- O uso de frameworks e bibliotecas é permitido, desde que estejam bem gerenciados e que não venham deixar a aplicação pesada.
 
 
 ## O que será avaliado e valorizamos ❤️
@@ -38,6 +36,7 @@ Informações sobre como deve ser feito projeto:
 - Cuidado com itens de segurança
 - Testes
 - Docker
+- Responsividade
 
 
 
