@@ -5,7 +5,7 @@ Este projeto é um desafio de desenvolvimento que envolve a criação de um quad
 ### Tecnologias Utilizadas
 - TypeScript
 - NextJS
-- Tailwind CSS
+- Tailwind
 - Git
 - Docker
 
