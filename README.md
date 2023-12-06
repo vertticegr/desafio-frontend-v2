@@ -7,6 +7,8 @@ Este projeto é um desafio de desenvolvimento que envolve a criação de um quad
 - NextJS (Preferência a versão 14)
 - PNPM (Pode ser utilizado o NPM)
 - Tailwind CSS
+- Git
+- Docker
 
 ### Imagem da tela que deve ser desenvolvida
 ![image](https://github.com/vertticegr/desafio-frontend-v2/assets/45667828/8d3ec6c5-f59a-4e14-984c-8ef66255507e)
@@ -35,7 +37,6 @@ Informações sobre como deve ser feito projeto:
 - Tratamento de erros
 - Cuidado com itens de segurança
 - Testes
-- Docker
 - Responsividade
 
 
